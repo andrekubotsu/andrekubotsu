@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-#### I'm currently learning Dart and Flutter;
+#### I'm currently learning Dart and Flutter; masterizing React and Node too.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andrekubotsu&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
