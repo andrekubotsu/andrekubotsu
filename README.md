@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-#### I'm working mostly with fron-end development (React), including: styled-components, Jest, little bit of Node.js and front-end related libraries/packages.
+#### I'm working mostly with front-end development (React), including: styled-components, Jest, little bit of Node.js and front-end related libraries/packages.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andrekubotsu&langs_count=5)](https://github.com/anuraghazra/github-readme-stats)
