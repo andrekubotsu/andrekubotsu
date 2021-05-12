@@ -17,6 +17,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Node.js, React.js, JS, TS
+- 🔭 I’m currently working on two freelance front-end projects using React.JS; I'm looking for a job, if you have an opportunity it would help me a lot!
+- 🌱 I’m currently learning React, Node, react-native;
+- 📫 How to reach me: contato201@gmail.com or linkedin profile: www.linkedin.com/in/andre-kubotsu
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andrekubotsu&langs_count=5)](https://github.com/anuraghazra/github-readme-stats)
