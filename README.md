@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![](https://komarev.com/ghpvc/?username=andrekubotsu)
 
 - 🔭 I’m currently working on two freelance front-end projects using React.JS; I'm looking for a job, if you have an opportunity it would help me a lot!
 - 🌱 I’m currently learning React, Node, react-native;
