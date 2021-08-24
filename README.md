@@ -1,7 +1,6 @@
 ### Hello World! 👋
 
-- 🔭 I’m currently working on front-end projects using React.JS;
-- 🌱 I’m currently learning Flutter;
+- 🔭 I’m always learning
 - 📫 How to reach me: contato201@gmail.com
 
 <br />
